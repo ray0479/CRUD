@@ -1,0 +1,7 @@
+Datos\GestionAdmins.class
+Datos\GestionAlumnos.class
+com\mycompany\web\JakartaRestConfiguration.class
+Datos\Alumno.class
+Conexion\Conexion.class
+servlet\server.class
+com\mycompany\web\resources\JakartaEE10Resource.class
